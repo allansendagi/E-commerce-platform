@@ -3,13 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
+    apiKey: "AIzaSyCJm-0lZ4nJ1btp3ildwEbZPBX652SazC8",
+    authDomain: "crowndb-276b2.firebaseapp.com",
+    databaseURL: "https://crowndb-276b2.firebaseio.com",
     projectId: "crowndb-276b2",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+    storageBucket: "crowndb-276b2.appspot.com",
+    messagingSenderId: "303470218425",
+    appId: "1:303470218425:web:a69355612f179584"
   };
   
   export const createUserProfileDocument = async (userAuth, additionalData) => {
