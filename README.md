@@ -1,5 +1,7 @@
 This Project is Hosted here: https://crown-fashion.herokuapp.com/signin
+
 Github Repo here: https://github.com/allansendagi/E-commerce-platform
+
 I write a blog about what I am learning here https://medium.com/@allansendagi
 
 This App leverages the following technologies: 
