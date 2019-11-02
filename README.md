@@ -17,7 +17,7 @@ React-Router - Routing
 
 SCSS - CSS3 superset for styling 
 
-Firebase - Database and Authentication
+Firebase - Database and Authentication - SignIn with Google
 
 ReduxPersist - Saves Redux Store From Disappearing
 
